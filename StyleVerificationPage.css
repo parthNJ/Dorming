@@ -1,0 +1,48 @@
+.headerImg {
+		width: 240px;
+		height:100px;
+		}
+		
+		
+	.log {
+		margin-left:990px;
+		margin-top:90px;
+		}
+			
+	.line1 {
+		border: none;
+		height: 5px;
+		background-color:#f44256;
+		}
+				
+	b{
+		
+	}
+	
+	#part1{
+		padding: 0 0 25px 0px;
+		top: -5px;
+		background: red
+		border: 1px #blue solid;
+		border-top-width: 0px;
+		float: left;
+		min-width: 911px;
+		width: 100%;
+		margin: 29px 0 0; 		
+		}
+		
+	.lev1 {
+		min-width: 100%;
+		width:auto:
+		margin:0;
+		}
+				
+	.impt {
+		width:142px;
+		height:17px;
+		}
+		
+	input {
+		border-radius:5px;	
+		
+	}

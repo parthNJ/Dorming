@@ -1,0 +1,446 @@
+
+				body {
+					font-family: "Lato", sans-serif;
+					background-color:white;
+					
+				}
+
+				.sidenav {
+					background: -webkit-linear-gradient(#FC4E4E, #540606);
+					height: 100%;
+					width: 250px;
+					position: fixed;
+					z-index: 1;
+					top: 0;
+					left: 0;
+					background-color: #FF3B3B;
+					overflow-x: hidden;
+					padding-top: 20px;
+				}
+
+				.sidenav a {
+					padding: 6px 6px 6px 32px;
+					text-decoration: none;
+					font-size: 20px;
+					color: #F2F4F4;
+					display: block;
+				}
+				
+				h4 {
+					text-align:center;
+					text-decoration:bold;
+					
+				}
+			
+				h3{
+				padding: 6px 6px 6px 32px;
+					text-decoration: none;
+					font-size: 25px;
+					color: #F2F4F4;
+					display: block;
+				}
+				
+				.sidenav a:active {
+					color:yellow;
+				}
+
+				.sidenav a:hover {
+					color:Red;
+					background-color: white;
+				}
+
+				.main{
+					margin-left: 250px; 
+					margin-top:-380px;
+				}
+				
+				h2 { 
+					margin-left:470px;
+				}
+				
+				.lines {
+					width:800px;
+					height:2px;
+					background-color:#FF3B3B;
+				}
+				.NameOfDorm {
+					font-size:18px;
+					color:#540606;
+					
+				}
+				
+				.pageHeader{
+					color:#111;
+					text-decoration:bold;
+					text-align:center;
+				}
+				
+				.imgFirst{
+					width:450px;
+					height:420px;
+					margin-left:370px;
+					border-radius:0px;
+					border:4px solid #111;		
+					padding:0px;
+				}
+				
+				.imgSecound{
+					width:270px;
+					height:300px;
+					margin-left:780px;
+					margin-top:-1000px;
+					margin-bottom: 80px;
+					border-radius:4px;
+					border:4px solid #111;
+					padding:0px;
+				}
+				
+				.imgThird{
+					width:350px;
+					height:200px;
+					margin-left:400px;
+					margin-top:-500px;
+					margin-bottom:-90px;
+					border-radius:4px;
+					border:4px solid #111;
+					padding:0px;
+				}
+				
+				.imgFourth{
+					width:350px;
+					height:250px;
+					margin-left:725px;
+					margin-top:-80px;
+					border-radius:4px;
+					border:4px solid #111;
+					padding:0px;
+				}
+		
+				img {
+					width:800px;
+					height:320px;
+					margin-left:123px;
+					padding:5px;
+					border-radius:90px;
+					margin-top:-20px;
+					
+			
+				}
+				
+				.box1 {
+					background-color:#ECF0F1  ;
+					width:300px;
+					height:260px;
+					margin-left:200px;
+					padding:10px;
+					border-radius:40px;
+					text-align:center;
+					opacity:1;
+					font-size:18px;
+					border:4px solid black;
+				}
+				li{
+					list-style:none;
+				}
+				.box2 {
+					background-color:#ECF0F1  ;
+					width:300px;
+					height:265px;
+					margin-left:200px;
+					margin-top:5px;
+					padding:10px;
+					border-radius:40px;
+					opacity:1;
+					font-size:19px;
+					border:4px solid black;
+				}
+				.box3 {
+					background-color:#F2D7D5;
+					width:300px;
+					height:388px;
+					margin-top:-584px;
+					margin-right:200px;
+					padding:10px;
+					float:right;
+					float:bottom;
+					border-radius:40px;
+					opacity:1;
+					font-size:19px;
+					border:4px solid black;
+				}
+				
+				.box4 {
+					background-color:#F2D7D5;
+					width:300px;
+					height:178px;
+					margin-top:-162px;
+					margin-right:200px;
+					padding:10px;
+					float:right;
+					float:bottom;
+					border-radius:40px;
+					opacity:1;
+					font-size:19px;
+					border:4px solid black;
+				}
+				
+				.heightsImg {
+					border-radius:0px;
+					height:280px;
+					width:320px;
+					margin-top:20px;
+					margin-left:55px;
+				}
+				
+				.heightsImg2{
+					border-radius:0px;
+					height:280px;
+					width:320px;
+					margin-top:10px;
+					margin-right:-100px;
+					margin-left:-10px;
+				}
+				.heightsImg3{
+					border-radius:0px;
+					height:280px;
+					width:320px;
+					margin-top:10px;
+					margin-right:-100px;
+					margin-left:90px;
+				}
+				
+				.box5 {
+					background-color:#EBDDE2;
+					width:300px;
+					height:220px;
+					margin-top:5px;
+					margin-right:565px;
+					padding:10px;
+					float:right;
+					float:bottom;
+					border-radius:40px;
+					opacity:1;
+					font-size:17px;
+					border:4px solid black;
+				}
+				
+				.box6 {
+					background-color:#EBDDE2;
+					width:320px;
+					height:330px;
+					margin-top:-245px;
+					margin-right:191px;
+					padding:10px;
+					float:right;
+					float:bottom;
+					border-radius:40px;
+					opacity:1;
+					font-size:18px;
+					border:4px solid black;
+				}
+				
+				.box6Img1 {
+					width:150px;
+					height:200px;
+					margin-left:550px;
+					margin-top:5px;
+					border-radius:21px;
+					border:3px solid #111;
+				}
+				
+				.box6Img2 {
+					width:150px;
+					height:200px;
+					margin-left:719px;
+					margin-top:-219px;
+					margin-bottom:21px;
+					border-radius:20px;
+					border:3px solid #111;
+				}
+				
+				.BohnImg1 {
+					margin-top:310px;
+					width:400px;
+				margin-bottom:-45px;
+				border-radius:10px;
+					
+				}
+				
+				.BohnImg2 {
+					margin-top:-500px;
+					width:400px;
+					margin-left: 550px;
+					margin-bottom:-25px;
+					border-radius:10px;
+				}
+				
+				details {
+					width:300px;
+					margin-left:200px;
+					margin-top:-340px;
+					border-radius:10px;
+					text-decoration:bold;
+				}
+				
+				.box7 {
+					background-color:#EBDDE2;
+					width:380px;
+					height:290px;
+					margin-top:32px;
+					margin-left:120px;
+					padding:10px;
+					border-radius:40px;
+					opacity:1;
+					font-size:17px;
+					border:4px solid black;
+					
+				}
+				
+				.box8 {
+					background-color:#EBDDE2;
+					width:380px;
+					height:200px;
+					margin-top:-318px;
+					margin-left:555px;
+					padding:10px;
+					border-radius:40px;
+					opacity:1;
+					font-size:17px;
+					border:4px solid black;
+					
+				}
+				
+				.box9 {
+					background-color:#EBDDE2;
+					width:380px;
+					height:280px;
+					margin-top:15px;
+					margin-left:555px;
+					padding:10px;
+					border-radius:40px;
+					opacity:1;
+					font-size:17px;
+					border:4px solid black;
+					
+				}
+				
+				.box10{
+					background-color:#EBDDE2;
+					width:380px;
+					height:150px;
+					margin-top:-220px;
+					margin-left:119px;
+					padding:10px;
+					border-radius:40px;
+					opacity:1;
+					font-size:17px;
+					border:4px solid black;
+					
+				}
+				
+				.box11{
+					background-color:#EBDDE2;
+					width:380px;
+					height:262px;
+					margin-top:15px;
+					margin-left:130px;
+					padding:10px;
+					border-radius:40px;
+					opacity:1;
+					font-size:17px;
+					border:4px solid black;
+					
+				}
+				
+				.box12{
+					background-color:#EBDDE2;
+					width:380px;
+					height:200px;
+					margin-top:15px;
+					margin-left:130px;
+					padding:10px;
+					border-radius:40px;
+					opacity:1;
+					font-size:17px;
+					border:4px solid black;
+					
+				}
+				
+				.box13{
+					background-color:#EBDDE2;
+					width:320px;
+					height:220px;
+					margin-top:-529px;
+					margin-left:565px;
+					padding:10px;
+					border-radius:40px;
+					opacity:1;
+					font-size:17px;
+					border:4px solid black;
+					
+				}
+				
+				.box14{
+					background-color:#EBDDE2;
+					width:320px;
+					height:260px;
+					margin-top:10px;
+					margin-left:565px;
+					padding:10px;
+					border-radius:40px;
+					opacity:1;
+					font-size:17px;
+					border:4px solid black;
+					
+				}
+				
+				.RussHallImg {
+					
+					height:200px;
+					width:270px;
+					margin-left:20px;
+					border-radius:0px;
+				}
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				.tablecls {
+					margin-left:330px;
+					margin-top:250px;
+				}
+				
+				 input {
+					float: right;
+                    border: 2px solid silver;
+					padding: 8px 0;
+					border-width: 0 0 2px 0;
+					width: 200px;
+					margin-top: 15px;
+					transition: border-color .9s;
+				}
+				input:hover {
+					border-color: #FF3B3B;
+					outline: 0;
+				}
+				caption {
+					
+					font-family: 'Tangerine', serif;
+					font-size:20px;
+				}
+				textarea {
+					resize: none;
+				}
+	
+				
+				
+				
+				@media screen and (max-height: 450px) {
+					.sidenav {padding-top: 15px;}
+					.sidenav a {font-size: 18px;}
+				}

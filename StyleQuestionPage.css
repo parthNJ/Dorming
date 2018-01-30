@@ -1,0 +1,119 @@
+
+
+		.box {
+				width:600px;
+				height:220px;
+				border:2px solid #111;
+				border-radius:8px;
+				background-color:#E5E7E9;
+				margin-left:370px;
+				margin-top:50px;
+				box-shadow: 10px 10px 5px #888888;
+			}
+			.box2 {
+				width:250px;
+				height:100px;
+				background-color:#F8F9F9;
+				margin-top:50px;
+				box-shadow: 5px 5px 2px #EAEDED;
+				text-align:center;
+				font-size:17px;
+				color:#A6ACAF;
+			} 
+			.headerImage {
+				width: 200px;
+				height:80px;
+			}
+			
+			.box3{
+				
+				height:300px;
+				width:200px;
+				
+			}
+			
+			.log {
+				margin-left:1000px;
+				margin-top:90px;
+					
+				}
+			
+			footer {
+		position: absolute;
+		right: 0;
+		bottom: 0;
+		left: 0;
+		padding: 1rem;
+		text-align: left;
+		}
+		
+		p {
+		position: absolute;
+		right: 0;
+		bottom: 0;
+		left: 0;
+		padding: 1rem;
+		text-align: right;				
+		}
+		
+	.headerBtn{
+		margin-left:1300px;
+		margin-top:-45px
+		
+		}
+			
+	.line1 {
+		border: none;
+		height: 5px;
+		background-color:#f44256;
+		}
+		
+		.Qus{
+			text-align:center;
+			font-size:24px;
+		
+		}
+		
+		.Input1 {
+			display: block;
+		}
+		.Input1:hover{
+			background-color:#f44256;
+			border-radius:5px;
+		}
+		
+		.Input2 {
+			display: block;
+		}
+		.Input2:hover{
+			background-color:#f44256;
+			border-radius:5px;
+		}
+		.Input3 {
+			display: block;
+		}
+		.Input3:hover{
+			background-color:#f44256;
+			border-radius:5px;
+		}
+		.Input4 {
+			display: block;
+		}
+		.Input4:hover{
+			background-color:#f44256;
+			border-radius:5px;
+		}
+		.btnNext {
+			margin-left:547px;
+			margin-top:-45px;
+			
+		}
+		.NumOfQues {
+			margin-top:8px;
+			margin-left:8px;
+		}
+		
+		h1 {
+			text-align:center;
+		}
+		
