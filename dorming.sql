@@ -48,7 +48,7 @@ CREATE TABLE `dorming` (
 --
 -- Dumping data for table `dorming`
 --
-
+/*The following is fake data made up to create users. */
 INSERT INTO `dorming` (`netid`, `password`, `email`, `fname`, `lname`, `deposit`, `cwid`, `hasRoommate`, `year`, `dorm`, `discription`, `person`, `roommate`, `admin`) VALUES
 ('george13', '9b306ab04ef5e25f9fb89c998a6aedab', 'george13@gmail.com', 'george', 'lopes', 1, 42819776, 1, '0', 'Russ Hall', 'hi i am george love watch comedy ', 1, 42819776, 0),
 ('jason14', '2b877b4b825b48a9a0950dd5bd1f264d', 'jason14@gmail.com', 'jason', 'dickson', 1, 16551322, 0, 'Sophmore', 'Russ Hall', 'what up i am jason', 1, 0, 0),
